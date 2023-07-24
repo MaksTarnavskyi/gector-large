@@ -1,6 +1,6 @@
 # Inference parameters
 
-### Single GECToR Large models with vocabulary size 5K
+### GECToR Large models with a vocabulary size of 5K.
 | Model | AC | MEP | TP | FP | FN | Prec | Rec | F0.5 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | RoBERTa | 0.05 | 0.6 | 2526 | 1315 | 4935 | 0.6576 | 0.3386 | 0.5533 |
