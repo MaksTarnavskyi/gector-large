@@ -8,4 +8,4 @@
 | XLNet | 0.3 | 0.6 | 2624 | 1459 | 4837 | 0.6427 | 0.3517 | 0.5514 |
 | BERT | 0.0 | 0.55 | 2332 | 1480 | 5129 | 0.6118 | 0.3126 | 0.5135 |
 
-For all models, please use `--special_tokens_fix 1` for inference.
+To reproduce results, please use `--special_tokens_fix 1` for all models along with the specified `--additional_confidence` (AC) and `--min_error_probability` (MEP) parameters.
